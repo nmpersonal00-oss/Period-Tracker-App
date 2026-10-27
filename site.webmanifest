@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "Rosie Rhythm \u2014 Our Little Cycle Diary",
-  "short_name": "Rosie Rhythm",
-  "description": "Private roseglass cycle diary with pink hearts, blue stars, shared notes and calendar check-in reminders.",
+  "name": "Blossom — Our Little Cycle Diary",
+  "short_name": "Blossom",
+  "description": "A private royal-velvet cycle diary for gentle tracking, partner education, patterns, history, and reminders.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#fff0fa",
-  "theme_color": "#e9c0db",
+  "background_color": "#350713",
+  "theme_color": "#62102a",
   "icons": [
     {
       "src": "icon-192.png",
